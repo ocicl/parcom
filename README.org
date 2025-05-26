@@ -4,7 +4,7 @@ Simple parser combinators for Common Lisp.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/fosskers/parcom.git |
-| commit  | 52ec960                                    |
+| commit  | ccf43e3                                    |
 | systems | parcom                                     |
 |---------+--------------------------------------------|
 
